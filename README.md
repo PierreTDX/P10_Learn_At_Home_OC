@@ -24,7 +24,7 @@ Voir le fichier `Tondeux_Pierre_1_diagramme_cas_usage_08112024.pdf` [Use Cases](
 
 Voir le fichier `Tondeux_Pierre_2_user_stories_08112024.pdf` [User Stories](livrables/Tondeux_Pierre_2_user_stories_08112024.pdf) du projet.
 
-![User Stories](assets/user_stories/Tondeux_Pierre_2_user_stories_08112024-1.png)
+![User Stories](assets/user_stories/Tondeux_Pierre_2_user_stories_08112024-2.png)
 
 ## Maquette
 
