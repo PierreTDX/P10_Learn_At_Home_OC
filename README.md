@@ -34,6 +34,6 @@ Voir la maquette réalisée avec [Figma](https://www.figma.com/design/ZwSigWkx8l
 
 ## Kanban
 
-Voir la maquette réalisée avec [Trello](https://trello.com/invite/b/672dece6d43d4a143c35600a/ATTI35ba25441d507ef1d3f226e3ddca0803C2E626AA/learnhome)
+Voir le Kanban réalisé avec [Trello](https://trello.com/invite/b/672dece6d43d4a143c35600a/ATTI35ba25441d507ef1d3f226e3ddca0803C2E626AA/learnhome)
 
 ![Kanban Trello](assets/kanban_trello/trelloTableurComplet.png)
