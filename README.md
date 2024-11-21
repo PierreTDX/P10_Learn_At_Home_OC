@@ -16,7 +16,7 @@ Projet n°10 de la formation [OpenClassrooms Front-End JS/React](https://opencla
 
 ## Use Cases
 
-Voir le fichier `Tondeux_Pierre_1_diagramme_cas_usage_08112024.pdf` [User Stories](livrables/Tondeux_Pierre_1_diagramme_cas_usage_08112024.pdf) du projet.
+Voir le fichier `Tondeux_Pierre_1_diagramme_cas_usage_08112024.pdf` [Use Cases](livrables/Tondeux_Pierre_1_diagramme_cas_usage_08112024.pdf) du projet.
 
 ![Use Cases](assets/diagramme_cas_usage/Tondeux_Pierre_1_diagramme_cas_usage_08112024-1.png)
 
